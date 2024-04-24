@@ -74,7 +74,7 @@ Clone the repository and navigate to the project directory:
 
 ```bash
 git clone [https://github.com/Sarim-MBZUAI/TMSS-V2]
-cd TMSSv2_CV703
+cd TMSSv2_AI702
 ```
 
 ### Environment Setup
@@ -166,7 +166,7 @@ Contributions are what make the open-source community such an amazing place to l
 5. Open a Pull Request
 
 ## Contact
-This was done as a course project for CV-703 at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
+This was done as a course project for AI702 at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI)
 For any inquiries or further information, please reach out to [sarim.hashmi@mbzuai.ac.ae].
 ## Reference
 This work was built upon:
