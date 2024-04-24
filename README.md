@@ -1,4 +1,4 @@
-# TMSS-V2
+CS-TMSS
 
 
 ## Table of Contents
@@ -74,8 +74,8 @@ Clone the repository and navigate to the project directory:
 
 ```bash
 git clone [https://github.com/Sarim-MBZUAI/AI702_project.git]
-cd TMSSv2_AI702
-```
+cd AI702_project
+
 
 ### Environment Setup
 
