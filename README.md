@@ -73,7 +73,7 @@ Download the dataset
 Clone the repository and navigate to the project directory:
 
 ```bash
-git clone [https://github.com/Sarim-MBZUAI/TMSS-V2]
+git clone [https://github.com/Sarim-MBZUAI/AI702_project.git]
 cd TMSSv2_AI702
 ```
 
