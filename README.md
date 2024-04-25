@@ -40,10 +40,11 @@ Our Model Weights can be found at [Model Weights](https://mbzuaiac-my.sharepoint
   <strong>Figure 1:</strong> TMSS Old Architecture
 </p>
 <p align="center">
-  <img src="https://github.com/Sarim-MBZUAI/TMSS-V2/blob/main/CS-TMSS-1.png" alt="Our Architecture" width="75%"/>
+  <embed src="https://github.com/Sarim-MBZUAI/AI702_project/blob/main/cs-tmss.pdf" alt="Our Architecture" width="75%" type="application/pdf"/>
   <br>
   <strong>Figure 2:</strong> Our Architecture
 </p>
+
 
 
 
